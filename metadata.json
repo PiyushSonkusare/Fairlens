@@ -1,0 +1,6 @@
+{
+  "name": "FairLens",
+  "description": "AI-powered bias detection and remediation tool for datasets and ML models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
